@@ -122,4 +122,10 @@ Developed as a practical software project focused on desktop application develop
 
 Choose and add an appropriate open-source license before allowing others to reuse or distribute the project.
 
-##Download ACID_POS: https://github.com/engahmed2007/ACID_POS/releases/download/v1.0.0/main.exe
+## Download
+
+Download the latest Windows executable:
+
+[**Download ACID_POS v1.0.0**](https://github.com/engahmed2007/ACID_POS/releases/download/v1.0.0/main.exe)
+
+For installation instructions and project details, see the documentation above.
