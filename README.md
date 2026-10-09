@@ -129,3 +129,12 @@ Download the latest Windows executable:
 [**Download ACID_POS v1.0.0**](https://github.com/engahmed2007/ACID_POS/releases/download/v1.0.0/main.exe)
 
 For installation instructions and project details, see the documentation above.
+
+## Demo Login Credentials
+
+Use the following credentials to log in to the application:
+
+* **Username:** `admin`
+* **Password:** `admin123`
+
+**Note:** These are the default demo credentials for testing the application. Change them before using the system in a production environment.
